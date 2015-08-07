@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{minitest practice}
   spec.description   = %q{minitest practice}
-  spec.homepage      = "https://github.com/ShinyaIshikawa/e1515si_check_age"
+  spec.homepage      = "https://github.com/ShinyaIshikawa/gem_minitest_practice"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
